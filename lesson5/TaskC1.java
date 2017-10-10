@@ -58,7 +58,7 @@ public class TaskC1 {
 					continue;
 				}
 				if (i <= 8 && i >= 6) {
-					System.out.println("За месяц " + monthWord[i - 1] + " начислено " + sal);
+					if (sal*1.0==666) break;
 				} else {
 					System.out.println("За месяц " + monthWord[i - 1] + " начислено " + sal * 1.5);
 				}
