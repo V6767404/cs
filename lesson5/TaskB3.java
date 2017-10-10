@@ -36,7 +36,7 @@ public class TaskB3 {
 			}
 			i++;
 			if (sum != 0) {
-				System.out.print(sum + " ");
+				System.out.print(sum + ",");
 			}
 			sum += i;
 
