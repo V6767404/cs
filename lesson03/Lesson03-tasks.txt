@@ -1,0 +1,12 @@
+Lesson03
+
+
+A1 - "Hello World"
+A2 - sout
+A3 - sout
+B1 - sout
+B2 - sout
+B3 - sout
+C1 - Scanner input = new Scanner(System.in); два числа считываетс€
+—2 - вывести числа в ƒ≈—я“»„Ќќћ ƒ¬ќ»„Ќќћ Ў≈—“Ќјƒ÷ј“»–»„Ќќћ ¬ќ—№ћ»–»„Ќќћ виде
+C3 - вывести вес на марсе - округлив до сотых
