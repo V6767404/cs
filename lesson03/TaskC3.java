@@ -43,7 +43,7 @@ class TaskC3 {
 
         double weightMars = x * 3.86 / 9.81;
         int weight = (int) (weightMars * 100 + 0.5); // (+0.5) округление по законам математики
-        return weight / 100;
+        return (double) weight / 100;
 
 
     }
