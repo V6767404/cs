@@ -1,0 +1,12 @@
+Lesson 7
+
+A1 - массив []
+A2 - ArrayList- ввод коллекции строк и вывод списка
+B1 - ArrayList
+B2 - наполнить два массива из введеного. Arrays.toString
+C1 - ввести список и рассортировать по другим спискам. Распечатка через метод
+
+BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+Integer input = Integer.parseInt(reader.readLine());
+
+С2 - сортировка одномерного массива Пузырьком
