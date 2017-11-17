@@ -1,3 +1,26 @@
+Lesson 5
+(C3) 
+
+Lesson 6
+C1C2C3
+
+Lesson 9
+C1
+
+Lesson 11
+C
+
+Lesson 12
+AC
+
+Lesson 13
+C
+
+
+
+
+
+
 Lesson 10 (жадные алгоритмы)
 
 (A) - видеорегистратор (проверенные повторения)
